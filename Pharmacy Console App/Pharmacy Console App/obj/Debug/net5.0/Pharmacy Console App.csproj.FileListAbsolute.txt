@@ -1,0 +1,16 @@
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.exe
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.deps.json
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.runtimeconfig.json
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.runtimeconfig.dev.json
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.dll
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\ref\Pharmacy Console App.dll
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\bin\Debug\net5.0\Pharmacy Console App.pdb
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.csproj.AssemblyReference.cache
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.AssemblyInfoInputs.cache
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.AssemblyInfo.cs
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.dll
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\ref\Pharmacy Console App.dll
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.pdb
+C:\Users\aslan\Desktop\Aptek Console App\Aptek Console App\obj\Debug\net5.0\Pharmacy Console App.genruntimeconfig.cache
